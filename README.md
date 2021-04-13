@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NishantAbhishek
-- 👀 I’m interested in 
+- I am a Developer.
 - 🌱 I’m currently learning Angular Js.
 - 💞️ I’m looking to collaborate on Android Studio Projects.
 - 📫 How to reach me www.linkedin.com/in/nabhishek2548
